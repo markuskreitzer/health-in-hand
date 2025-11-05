@@ -1,6 +1,6 @@
 {
   "name": "health_in_hand",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "type": "module",
   "description": "",
   "main": "index.js",
@@ -11,8 +11,11 @@
     "dev": "next dev --turbopack",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "type-check": "tsc --noEmit"
+    "lint": "eslint . --ext .ts,.tsx,.js,.jsx",
+    "lint:fix": "eslint . --ext .ts,.tsx,.js,.jsx --fix",
+    "type-check": "tsc --noEmit",
+    "check": "npm run lint && npm run type-check",
+    "check:fix": "npm run lint:fix && npm run type-check"
   },
   "keywords": [],
   "author": "",
@@ -39,6 +42,7 @@
     "tailwindcss-animate": "^1.0.7"
   },
   "devDependencies": {
+    "@eslint/eslintrc": "^3.3.1",
     "@tailwindcss/postcss": "^4.1.14",
     "@types/node": "^24.7.2",
     "@types/react": "^19.2.2",

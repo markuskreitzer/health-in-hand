@@ -83,6 +83,6 @@ export const PRACTITIONERS = [
       "Office Administration",
     ],
     bio: "Stuart Whitney manages the daily operations of Health in Hand, ensuring smooth patient experiences and efficient clinic workflow. With extensive experience in healthcare administration, Stuart helps coordinate patient care and manages the clinic's business operations.",
-    image: "https://via.placeholder.com/150x150/4F46E5/FFFFFF?text=SW",
+    image: "https://picsum.photos/seed/stuart/150/150.jpg",
   },
 ];

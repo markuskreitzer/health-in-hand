@@ -7,34 +7,34 @@ excerpt: "Homeopathy is built on the principle of 'like cures like'. Learn about
 slug: "homeopathy"
 ---
 
-Homeopathy is built on the principle of "like cures like". It has also been referred to as "similar suffering". This means an illness can be treated by a substance capable of producing similar symptoms to those being suffered by the patient.
+Homeopathy is built on the principle of "like cures like"—sometimes called "similar suffering." This means an illness can be treated by a substance capable of producing symptoms similar to those experienced by the patient.
 
-An example of this is treating poison oak with the homeopathic remedy Rhus Toxicodendron (homeopathic poison oak). This works because the energy frequency of poison oak is stronger than the molecular structure of poison oak.
+For example, poison oak can be treated with the homeopathic remedy Rhus Toxicodendron (made from poison oak itself). This works because the energetic frequency of the remedy is stronger than the molecular structure that caused the original symptoms.
 
 ## Historical Background
 
-Homeopathy's roots trace back to Hippocrates (460-370 BC), who believed:
+Homeopathy's principles trace back to Hippocrates (460-370 BC), who recognized that:
 
 - A person's symptoms hold the key to their needed remedy
-- The body is capable of healing itself
-- Natural causes and environmental factors are important
+- The body has an innate capacity to heal itself
+- Natural causes and environmental factors influence health
 
-Hippocrates challenged the prevailing "Law of Contraries", which suggested treating conditions with opposite substances.
+Hippocrates challenged the prevailing "Law of Contraries," which advocated treating conditions with opposite substances.
 
 ## Development of Homeopathy
 
-The practice was developed by Dr. Samuel Hahnemann (1755-1843), a German medical doctor who was frustrated with the medical practices of his era. Through extensive experimentation with substances like quinine, Hahnemann discovered that:
+Modern homeopathy was developed by Dr. Samuel Hahnemann (1755-1843), a German physician frustrated with the harsh medical practices of his time. Through extensive experimentation with substances like quinine, Hahnemann discovered:
 
-- Substances causing specific symptoms could potentially cure those same symptoms
-- Diluting remedies through "dilution and succussion" made them less physically aggressive but more energetically potent
+- Substances that cause specific symptoms in healthy people could cure those same symptoms in sick people
+- Diluting remedies through "potentization" (dilution and succussion) made them less physically aggressive but more energetically potent
 
 ## Understanding Homeopathic Remedies
 
-Homeopathy can be defined as "energy frequency with memory, minus the molecular structure of its former shape." This means that the remedies work on an energetic level rather than a chemical one.
+Homeopathy can be defined as "energy frequency with memory, minus the molecular structure of its original substance." This means remedies work on an energetic level rather than a chemical one.
 
-Through the process of dilution and succussion, homeopathic remedies become:
+Through potentization, homeopathic remedies become:
 - Less aggressive physically
-- More aggressive energetically
+- More potent energetically  
 - Capable of addressing the body's energetic imbalances
 
-Future articles will explore the "symptom picture" and the detailed dilution process in greater depth.
+Future articles will explore the concept of "symptom pictures" and the detailed potentization process in greater depth.

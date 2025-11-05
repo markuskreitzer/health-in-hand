@@ -7,33 +7,32 @@ excerpt: "Water makes up 70-75% of our bodies, yet municipal water contains phar
 slug: "water-filtration"
 ---
 
-We'll explore a two-part issue associated with water: proper filtration as well as hydration. We're going to look at these two issues separately and together. Let's start with filtration.
+Water is essential to life, but the quality of our water supply is often overlooked. In this two-part series, we'll explore both water filtration and hydration—two critical aspects of health that are deeply interconnected.
 
-In my work as a Naturopathic Doctor and EDS (Electro-Dermal Screening) homeopathic technician, I see a great deal of toxic foci associated with municipal water even when filtered. This has become an area of focus for me since water is such a big part of who we are!
+As a Naturopathic Doctor and EDS (Electro-Dermal Screening) technician, I frequently encounter toxic issues associated with municipal water, even in homes with basic filtration systems. This has become a particular focus of my practice because water makes up such a significant portion of our bodies.
 
 ## The Importance of Water
 
-Consider these statistics about water in our bodies:
+The human body is predominantly water throughout life:
 
-- We are **99% water** in the womb
-- **90% water** at birth
-- **70-75% water** throughout most of our lives
-- About **50% water** in the years just before death
+- **99% water** in the womb
+- **90% water** at birth  
+- **70-75% water** through most of our adult lives
+- **50% water** in the years preceding death
 
-Given these numbers, the quality of water we consume has a profound impact on our overall health.
+These statistics reveal why water quality has such a profound impact on our health and wellbeing.
 
-## Water Contamination Concerns
+## Modern Water Contamination
 
-Modern water supplies face contamination from numerous sources:
+Today's water supplies face contamination from numerous sources that standard treatment facilities weren't designed to remove:
 
-- **Pharmaceutical drugs** (prescription and over-the-counter)
+- **Pharmaceutical drugs** (both prescription and over-the-counter)
 - **Recreational drugs**
 - **Chemical compounds**
-- **Pesticides**
-- **Herbicides**
+- **Pesticides and herbicides**
 - **Vaccine residues**
 
-These contaminants can pass through standard water treatment facilities and end up in our drinking water, even in homes with basic filtration systems.
+These contaminants can pass through conventional water treatment processes and remain in our drinking water, even after basic filtration.
 
 ## NSF Standard 401 Certification
 

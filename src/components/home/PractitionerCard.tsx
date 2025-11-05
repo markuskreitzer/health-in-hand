@@ -28,6 +28,7 @@ export function PractitionerCard({
               fill
               className="object-cover"
               sizes="96px"
+              unoptimized
             />
           </div>
           <div>
