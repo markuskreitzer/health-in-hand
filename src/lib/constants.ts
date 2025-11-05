@@ -1,14 +1,15 @@
 export const SITE_NAME = "Health in Hand";
 export const SITE_DESCRIPTION =
-  "Natural healthcare using Nutrition Response Testing, Homeopathy, Neurofeedback, and holistic therapies in Eva, Alabama.";
+  "Natural healthcare using Nutrition Response Testing, Homeopathy, EVOX, and holistic therapies in Eva, Alabama.";
 export const PHONE = "256-482-2801";
 export const EMAIL = "healthinhand@gmail.com";
 export const ADDRESS = "2363 Lawrence Cove Rd";
 export const CITY_STATE_ZIP = "Eva, AL 35621";
 export const LOCATION = "Eva, Alabama";
+export const BUSINESS_NAME = "Health In Hand Healing Arts";
 export const BUSINESS_HOURS = {
-  weekdays: "Monday - Thursday: 9:00am to 5:00pm",
-  weekend: "Friday - Sunday: Closed",
+  weekdays: "Tuesday - Thursday: 9:00am to 5:00pm",
+  weekend: "Friday - Monday: Closed",
 };
 
 export const SOCIAL_LINKS = {
@@ -32,24 +33,16 @@ export const SERVICES = [
     description: "Computerized health screening for energetic imbalances",
   },
   {
-    name: "Neurofeedback",
-    description: "Brain training therapy for stress, anxiety, and focus",
-  },
-  {
-    name: "Thyroid Reflex Testing",
-    description: "Specialized thyroid assessment and natural support",
-  },
-  {
-    name: "Iris Analysis (Iridology)",
-    description: "Constitutional health assessment and preventative insights",
+    name: "Organ Reflex Testing",
+    description: "Specialized organ assessment and natural support",
   },
   {
     name: "Emotional Modalities",
-    description: "Emotion Code therapy and mind-body healing",
+    description: "EVOX and Emotion Code therapy for mind-body healing",
   },
   {
     name: "Detox Therapies",
-    description: "Natural detoxification and colon hydrotherapy",
+    description: "Natural detoxification, colon hydrotherapy, and foot detox",
   },
   {
     name: "Homeopathy",
@@ -74,7 +67,7 @@ export const PRACTITIONERS = [
       "Electro-dermal Screening (EDS)",
       "Homeopathy",
       "Master Herbalist",
-      "Iridology",
+      "EVOX",
       "Colon Hydrotherapy",
       "Emotion Code",
     ],
@@ -82,15 +75,14 @@ export const PRACTITIONERS = [
     image: "/images/homepage/martha.jpg",
   },
   {
-    name: "Noah Whitney ND",
-    title: "Naturopathic Doctor",
+    name: "Stuart Whitney",
+    title: "Office Manager",
     specialties: [
-      "Neurofeedback",
-      "Thyroid Reflex Testing",
-      "Iridology",
-      "Bio-communication",
+      "Patient Coordination",
+      "Scheduling",
+      "Office Administration",
     ],
-    bio: "Noah Whitney focuses on the integration of emotional and physical health. Using advanced techniques like Neurofeedback and Bio-communication, Noah helps clients address the root causes of health imbalances, particularly those related to thyroid function and neurological patterns.",
-    image: "/images/homepage/noah.jpg",
+    bio: "Stuart Whitney manages the daily operations of Health in Hand, ensuring smooth patient experiences and efficient clinic workflow. With extensive experience in healthcare administration, Stuart helps coordinate patient care and manages the clinic's business operations.",
+    image: "https://via.placeholder.com/150x150/4F46E5/FFFFFF?text=SW",
   },
 ];

@@ -15,7 +15,7 @@ export default function HomePage() {
       <section className="py-16">
         <Container>
           <h2 className="font-serif text-3xl md:text-4xl font-bold text-primary mb-12 text-center">
-            Meet Our Practitioners
+            Meet Our Staff
           </h2>
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
             {PRACTITIONERS.map((practitioner) => (

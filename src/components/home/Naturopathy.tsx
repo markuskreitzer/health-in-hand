@@ -8,13 +8,13 @@ export function Naturopathy() {
           <h2 className="font-serif text-3xl md:text-4xl font-bold text-primary mb-6">
             What is Naturopathy?
           </h2>
-          <p className="text-lg leading-relaxed">
-            Naturopathy is a science-based healing art which employs natural
-            agencies such as heat, water, light, air, and massage along with
-            natural remedies. It encourages right mental attitudes, proper
-            nutrition, internal cleanliness, and beneficial lifestyle and
-            livity.
-          </p>
+            <p className="text-lg leading-relaxed">
+              Naturopathy is a science-based healing art which employs natural
+              agencies such as heat, water, light, air, and massage along with
+              natural remedies. It encourages right mental attitudes, proper
+              nutrition, internal cleanliness, and beneficial lifestyle and
+              longevity.
+            </p>
         </div>
       </Container>
     </section>

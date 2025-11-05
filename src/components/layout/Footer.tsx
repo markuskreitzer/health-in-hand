@@ -9,6 +9,7 @@ import {
   BUSINESS_HOURS,
   NAVIGATION_LINKS,
   SOCIAL_LINKS,
+  BUSINESS_NAME,
 } from "@/lib/constants";
 
 export function Footer() {
@@ -22,7 +23,7 @@ export function Footer() {
               {SITE_NAME}
             </h3>
             <p className="text-sm text-muted-foreground">
-              Natural Healthcare Clinic
+              {BUSINESS_NAME}
               <br />
               {ADDRESS}
               <br />
